@@ -1,0 +1,31 @@
+header{
+    background:  #0B173D;
+    color: blanchedalmond;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+hr{
+    color: #B78F0D;
+}
+a{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+nav{
+    width: 1000px;
+    background-color: #0B173D;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    padding: 5px 9%;
+}
+body{
+    height: 100vh;
+}
+.boton-reg{
+    background-color: #B78F0D;
+}
